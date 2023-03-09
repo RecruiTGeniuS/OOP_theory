@@ -234,3 +234,5 @@ https://www.youtube.com/watch?v=SDRMUgJwro0&t=311s
 https://www.codeproject.com/Articles/257589/An-Idiots-Guide-to-Cplusplus-Templates-Part-1#Syntax
 * Про шаблоны от Microsoft  
 https://learn.microsoft.com/ru-ru/cpp/cpp/templates-cpp?view=msvc-170
+* Про шаблоны с Habr  
+https://habr.com/ru/post/436880/
